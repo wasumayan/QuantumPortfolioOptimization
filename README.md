@@ -15,7 +15,7 @@ This project showcases an enhanced quantum algorithm (HHL++) tailored for solvin
 
 ---
 
-## 🧰 Project Structure
+## Project Structure
 
 ```bash
 📦 quantum-portfolio-hhlpp/
@@ -26,7 +26,7 @@ This project showcases an enhanced quantum algorithm (HHL++) tailored for solvin
 
 ---
 
-## 📈 Use Case
+## Use Case
 
 Quantum computers are uniquely suited to solve certain linear algebra problems exponentially faster. Portfolio Optimization—finding the best asset allocation to maximize return and minimize risk—can be reframed as solving a system Ax = b, where:
 
@@ -41,7 +41,7 @@ By encoding this into a quantum linear system and using HHL++, we:
 
 ---
 
-## 📦 How to Use This Project
+## How to Use This Project
 
 1. **Clone or Download the Project**
 ```bash
@@ -69,7 +69,7 @@ Check out:
 
 ---
 
-## 📊 Output Example
+## Output Example
 
 ```
 ✅ Fidelity: 0.82
@@ -79,7 +79,7 @@ Check out:
 
 ---
 
-## 📌 Why Our Method is Better
+## Why Our Method is Better
 
 | Method           | Fidelity ↑ | Depth ↓ | Runtime ↓ | Qubit Use |
 |------------------|------------|---------|------------|------------|
@@ -93,7 +93,7 @@ Check out:
 
 ---
 
-## 📘 References
+## References
 
 - Harrow, Hassidim, and Lloyd (2009). *Quantum Algorithm for Linear Systems of Equations.*
 - Qiskit Documentation (v2.0 Migration Guide)
@@ -101,7 +101,7 @@ Check out:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 If you’re passionate about quantum finance or HHL variants, feel free to:
 - Fork the repo
@@ -110,14 +110,8 @@ If you’re passionate about quantum finance or HHL variants, feel free to:
 
 ---
 
-## ⚠️ License
-
-MIT License — feel free to use and adapt!
-
----
-
-## 🧙‍♂️ Final Note
+## Final Note
 
 This notebook is more than just a demonstration. It is a testbed for high-performance quantum finance models. By combining domain-specific encoding, adaptive inversion, and high-fidelity validation, HHL++ shows how quantum technology can redefine optimization.
 
-🔁 “Solve faster, solve better. Quantumly.”
+“Solve faster, solve better. Quantumly.”
