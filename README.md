@@ -1,10 +1,12 @@
-# 🧠 Quantum Portfolio Optimization with HHL++
+# Quantum Portfolio Optimization with HHL++
 
 This project showcases an enhanced quantum algorithm (HHL++) tailored for solving Linear Systems in the context of Portfolio Optimization. It combines traditional quantum techniques like Quantum Phase Estimation (QPE) with novel enhancements such as hybrid eigenvalue inversion and fidelity benchmarking.
 
+This is also the submission for Yale's Quantum Computing Hackathon 2025.
+
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **HHL++ Engine**: Modified HHL with improved inversion logic and preprocessing pipeline.
 - **PortfolioQLSP**: Encodes portfolio optimization as a Quantum Linear System Problem.
@@ -19,7 +21,7 @@ This project showcases an enhanced quantum algorithm (HHL++) tailored for solvin
 
 ```bash
 📦 quantum-portfolio-hhlpp/
-├── hhlpp_final_verified_no_assemble.ipynb  # Main notebook with HHL++ implementation
+├── final.ipynb  # Main notebook with HHL++ implementation
 ├── README.md                               # This file
 ├── 📊 Visuals                              # Dynamically generated plots and performance graphs
 ```
@@ -44,10 +46,7 @@ By encoding this into a quantum linear system and using HHL++, we:
 ## How to Use This Project
 
 1. **Clone or Download the Project**
-```bash
-git clone https://github.com/yourusername/quantum-portfolio-hhlpp.git
-cd quantum-portfolio-hhlpp
-```
+
 
 2. **Install Dependencies**
 You will need Python ≥ 3.9 and the following packages:
@@ -56,7 +55,7 @@ pip install qiskit matplotlib numpy scipy
 ```
 
 3. **Run the Notebook**
-Open `hhlpp_final_verified_no_assemble.ipynb` in JupyterLab, Jupyter Notebook, or Google Colab. Make sure to:
+Open in JupyterLab, Jupyter Notebook, or Google Colab. Make sure to:
 - Run all cells sequentially
 - Use `Shift+Enter` to step through each part
 - View outputs inline (includes fidelity, circuit depth, measurement counts, and plots)
