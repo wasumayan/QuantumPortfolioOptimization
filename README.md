@@ -2,7 +2,6 @@
 
 This project showcases an enhanced quantum algorithm (HHL++) tailored for solving Linear Systems in the context of Portfolio Optimization. It combines traditional quantum techniques like Quantum Phase Estimation (QPE) with novel enhancements such as hybrid eigenvalue inversion and fidelity benchmarking.
 
-This is also the submission for Yale's Quantum Computing Hackathon 2025.
 
 ---
 
